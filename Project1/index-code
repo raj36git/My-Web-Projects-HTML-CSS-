@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio-Sample</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <h2 class="logo">JAET.raj</h2>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="about.html" target="_blank">About</a></li>
+                <li><a href="skill.html" target="_blank">Skill</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#contact">Connect Me</a>
+                
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="bg-pic">
+            <img src="./image/bgr.png" alt="raj-pic">
+        </div>
+        <div class="intro">
+            <h1>Hi, I'm Raj</h1>
+            <h2><span>Web developer </span> </h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi sequi corrupti expedita illo dolor
+                commodi repellendus asperiores officiis perspiciatis totam deserunt iste, natus ratione necessitatibus
+                nam iure velit amet quibusdam.</p>
+                <div class="btn">
+                    <button>Hire Me</button>
+                    <button>Latest Works</button>
+                </div>
+        </div>
+    </main>
+    <section>
+        <h2>More on...</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem consequuntur, fugiat facere voluptates odio excepturi saepe hic, ex eveniet consectetur facilis id eum accusamus libero velit! Necessitatibus impedit tempore, quo quas sint cumque dignissimos iusto voluptatibus in, deserunt minima natus, voluptatem nesciunt consequatur voluptas modi similique eius fuga non distinctio rem maxime! Accusantium, labore. Voluptate unde, commodi doloribus earum eius temporibus dolores error delectus. Obcaecati repellendus laboriosam quidem beatae sunt iste praesentium delectus dolorum totam at et ratione, deserunt adipisci enim quasi! Ducimus odio dolores a, unde ut saepe vitae vel numquam quia, earum excepturi cupiditate autem provident debitis molestiae perspiciatis quos minus beatae quo odit quis ab nisi. Nihil cupiditate aliquid incidunt voluptatum. Odit ipsam neque illo sequi! Quidem consequatur nihil laborum maiores officia harum atque voluptatem suscipit nisi, deserunt, ex esse eaque. Exercitationem alias molestiae quaerat placeat magni reprehenderit nobis voluptates quod vitae porro perspiciatis dolor molestias adipisci, facere inventore temporibus optio, earum fugit. Explicabo expedita inventore quia rem magnam. Quis vel obcaecati molestiae aliquid alias laborum at. Voluptatibus ex natus alias aut maiores blanditiis hic debitis, veniam, quod consequuntur vitae. Corporis impedit adipisci, perspiciatis reiciendis iure voluptas amet odio placeat ullam expedita quam ex asperiores nulla culpa deserunt aut possimus, quaerat ad quod quos. Ut atque, deserunt suscipit obcaecati facere tenetur laudantium, nesciunt dolorem voluptas provident laboriosam odio. Molestias, assumenda, totam sed repudiandae illo quis asperiores commodi ullam quisquam, minus quod. Animi consequuntur fuga repellendus odio nemo distinctio excepturi vel dolorem aperiam quod similique, laborum, quaerat magnam corrupti, aut id tempora? Necessitatibus blanditiis nihil adipisci alias debitis, nemo iure ea fugiat illum inventore impedit ad itaque quos provident, soluta minus unde, vitae numquam exercitationem eligendi quasi aut culpa? Quidem id similique expedita quibusdam nemo accusamus laboriosam, praesentium consequatur, sunt dolores animi distinctio. Doloremque, dolorum? Tempora, quas ipsum!</p>
+    </section>
+    <footer id="contact">
+      
+        <div class="twit">
+            <a href="https://twitter.com/raj36speaks" target="_blank"><img src="./image/twitter.png" height="30px"  alt="Twitter"></a>
+        </div>
+        <div class="github">
+            <a href="https://github.com/raj36git" target="_blank"><img src="./image/gitlogo.png" height="30px"  alt="GitHub"></a>
+        </div>
+        <!-- <div class="E-mail">
+            <a href="https://twitter.com/raj36speaks" target="_blank"><img src="./image/twitter.png" height="60px"  alt=""></a>
+        </div> -->
+    </footer>
+</body>
+</html>
