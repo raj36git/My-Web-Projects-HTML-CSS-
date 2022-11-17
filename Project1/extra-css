@@ -1,0 +1,29 @@
+ABOUT-CSS code
+     /* 2.ABOUT-CSS code */
+<style>
+    body {
+        background-color: rgb(5, 5, 53);
+        color: wheat;
+        ;
+    }
+
+    button {
+        background-color: orange;
+        color: wheat;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+</style>
+
+2.SKILL-CSS code
+<style>
+    /* 2.SKILL-CSS code */
+     body{
+         background-color: rgb(5, 5, 53);
+        color: wheat;;
+    }
+    button{
+        background-color: orange;
+        color: wheat;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+</style>
