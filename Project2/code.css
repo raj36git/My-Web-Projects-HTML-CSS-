@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+body{
+    background-color: aqua;
+
+}
+.logo{
+    display: flex;
+} 
+h4{
+    padding: 22px;
+}
+header{
+  background-color: rgb(247, 125, 125);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.navbar{
+    display: flex; 
+    flex-wrap: wrap;
+}
+li{
+    list-style: none;
+    margin: 0 101px;
+    padding-top: 15px;
+}
+li a{
+    text-decoration: none;
+    padding-top: 15px;
+    color: wheat;
+}
+li a:hover{
+    color: rgb(31, 20, 16);
+    text-decoration: underline;
+    font-size: 1em;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+     
+    margin: 38px;
+}
+.discp{
+    margin-top: 200px;
+    font-size: larger;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.laptop img{
+    background: url(./img/small-eclipse.svg);
+    background: url(./img/big-eclipse.svg);
+    width: 50vw;
+}
+.laptop img:hover{
+    width: 60vw;
+}
+.inch{
+    padding: 5px;
+    border-radius: 5px;
+    margin: 20px 22px;
+}
+.inch:hover{
+    cursor: pointer;
+    background-color: orangered;
+    color: antiquewhite;
+}
+.cart{
+    padding: 6px;
+    background-color: rgb(247, 125, 125);
+    border-radius: 5px;
+}
+.cart:hover{
+    cursor: pointer;
+    background-color: orangered;
+    color: antiquewhite;
+}
+footer{
+    float: right;
+    margin-right: 311px;
+}
